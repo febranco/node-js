@@ -1,0 +1,8 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/febranco/node-js.git",
+  "author": "felipe Branco <34607133+febranco@users.noreply.github.com>",
+  "license": "MIT"
+}
